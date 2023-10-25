@@ -1,3 +1,7 @@
+// index.js
+
+import "./styles/index.css"; // add import of the main stylesheets file
+
 console.log("Hello, World!");
 
 const numbers = [2, 3, 5];
